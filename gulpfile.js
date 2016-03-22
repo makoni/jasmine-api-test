@@ -13,7 +13,7 @@ gulp.task('lint', function () {
                     "sourceType": "module",
                     "ecmaFeatures": {
                         "jsx": true
-                    },
+                    }
                 },
                 "rules": {
                     "semi": 2,
