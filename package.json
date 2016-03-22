@@ -1,0 +1,33 @@
+{
+  "name": "jasmine-api-test",
+  "version": "1.0.0",
+  "description": "Simple example of testing any API with jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makoni/jasmine-api-test.git"
+  },
+  "keywords": [
+    "jasmine",
+    "node.js",
+    "test",
+    "api"
+  ],
+  "author": "Sergey Armodin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makoni/jasmine-api-test/issues"
+  },
+  "homepage": "https://github.com/makoni/jasmine-api-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-jasmine": "^2.3.0"
+  },
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
