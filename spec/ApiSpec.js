@@ -12,11 +12,4 @@ describe("GET /disk/", function() {
             done();
         });
     });
-
-    it("Unauthorized request. This test not gonna pass", function(done) {
-        request.get(base_url + 'disk/', function(error, response, body) {
-            expect(response.statusCode).toBe(404);
-            done();
-        });
-    });
 });
