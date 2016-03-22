@@ -1,4 +1,4 @@
-# jasmine-api-test [![Build Status](https://travis-ci.org/makoni/jasmine-api-test.svg?branch=master)](https://travis-ci.org/makoni/jasmine-api-test)
+# jasmine-api-test [![Build Status](https://travis-ci.org/makoni/jasmine-api-test.svg?branch=master)](https://travis-ci.org/makoni/jasmine-api-test) [![Dependency Status](https://david-dm.org/makoni/jasmine-api-test.svg)](https://david-dm.org/makoni/jasmine-api-test)
 Simple example of testing any API with [jasmine](http://jasmine.github.io)
 
 ```bash
